@@ -4,4 +4,4 @@ Construção de um algoritmo que recebe um vetor p vetores de tamanho p. Aplica-
 
 READ-ME: Para Compilar(compilador GCC)
 
-gcc imprimirMatriz.c imprimirVetor.c  tdc.c idc.c normasVetores.c distanciaVetores.c angulo.c normasMatriz.c distanciaMatrizes.c principal.c -lm -o principal
+gcc imprimirMatriz.c imprimirVetor.c  tdc.c idc.c normasVetores.c distanciaVetores.c angulo.c normasMatrizes.c distanciaMatrizes.c principal.c -lm -o principal
